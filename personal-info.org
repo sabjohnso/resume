@@ -1,0 +1,6 @@
+#+MACRO: FULL 
+#+MACRO: EMAIL
+#+MACRO: PHONE 
+#+MACRO: ADDRESS 
+#+MACRO: HEADER | {{{ADDRESS}}} | {{{PHONE}}} | {{{EMAIL}}} |
+

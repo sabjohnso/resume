@@ -1,11 +1,14 @@
-#+OPTIONS: toc:nil H:10 tex:t
+#+OPTIONS: toc:nil H:10 tex:t num:f author:nil date:nil
 #+STARTUP: hidestars indent
 #+INCLUDE: personal-info.org
-#+LateX_HEADER: \usepackage{mycv}
+#+LateX_HEADER: \usepackage{resume}
 #+LateX_HEADER: \hypersetup{hidelinks}
 #+LateX_CLASS_OPTIONS: [letterpaper]
 
-{{{HEADER}}}
+#+TITLE:{{{FULL}}}
+
+| {{{ADDRESS}}} | {{{PHONE}}} | {{{EMAIL}}} |
+
 
 * SUMMARY
 
@@ -20,31 +23,32 @@
   differentiation, model order reduction, formal verification for
   software development, and linguistics. 
 
-
-
+  
 * EMPLOYMENT HISTORY
 
 ** Halliburton Engineering Services, Inc.
 
-   | *Technical Advisor*                | Production Enhancement | 2012 – Present |
-   | *Principal Technical Professional* | Production Enhancement | 2010 - 2012    |
-   Development and implementation of algorithms for the simulation of
-   hydraulic fracturing,  for the automatic classification and index
-   reduction of systems of differential-algebraic equations based on a
-   graph-theoretic analysis of the system's structure, development of
-   a template library for automatic differentiation, development of a
-   high-performance computing framework for the simulation of
-   disparate but tightly coupled physical models, development of
-   physical models for the numerical simulation of complex physical
-   systems related to hydraulic fracturing and other production
-   enhancement processes, development of best practices
-   recommendations for the development of scientific computing and
-   computer aid engineering software. 
+| *Technical Advisor*                | Production Enhancement | 2012-Present |
+| *Principal Technical Professional* | Production Enhancement |    2010-2012 |
+
+Development and implementation of algorithms for the simulation of
+hydraulic fracturing,  for the automatic classification and index
+reduction of systems of differential-algebraic equations based on a
+graph-theoretic analysis of the system's structure, development of
+a template library for automatic differentiation, development of a
+high-performance computing framework for the simulation of
+disparate but tightly coupled physical models, development of
+physical models for the numerical simulation of complex physical
+systems related to hydraulic fracturing and other production
+enhancement processes, development of best practices
+recommendations for the development of scientific computing and
+computer aid engineering software. 
 
 ** Analysis and Design Applications Company (CD-adapco)
 
    | *Lead Engineer*   | Engineering Services | 2007 - 2010 |
    | *Senior Engineer* | Engineering Services | 2006 - 2007 |
+
    Consulting services in the area of thermal and fluid analysis of
    engineering systems for the Automotive, Marine, Nuclear, and Oil
    and Gas industries using CD-adapco's state-of-the-art software, and
@@ -55,6 +59,7 @@
 
    | *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
    | *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
+
    Conducted research for regarding the numerical simulation of
    multiphase fluid flow with applications in materials processing,
    fire suppression and contagion spreading, supervised graduate and
@@ -64,6 +69,7 @@
 ** Los Alamos National Laboratory
 
    | *Graduate Research Assistant* | Computational and Computer Science Division | 2000-2001 |
+
    Worked with a team on the development of a large-scale multi-physics
    code for the numerical simulation of casting process with specific
    research regarding the elimination of grid induced anisotropy and
@@ -73,6 +79,7 @@
 ** Colorado School of Mines 
 
    | *Graduate Research Fellow* | Center for Combustion and Environmental Research | 1999-2005 |
+
    Creation of analytical and numerical models in support of the
    development of a spray based strip casting process in partnership with
    the University of California, Irvine and the Idaho National
