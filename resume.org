@@ -4,6 +4,8 @@
 #+LateX_HEADER: \usepackage{resume}
 #+LateX_HEADER: \hypersetup{hidelinks}
 #+LateX_CLASS_OPTIONS: [letterpaper]
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="resume.css" />
+
 
 #+TITLE:{{{FULL}}}
 
@@ -11,28 +13,35 @@
 
 * SUMMARY
 
-A computational scientist and engineering developer primarily focused on algorithm and software development for the numerical solution of differential-algebraic equations, ordinary differential equations, partial differential equations, and linear and nonlinear algebraic equations pertaining to models of physical and industrial processes, especially those involving fluid dynamics, coupled fluid-structure interactions and  heat transfer. 
+A computational scientist and engineering developer primarily focused on algorithm and software development for the numerical solution of differential-algebraic equations, ordinary differential equations, partial differential equations, and linear and nonlinear algebraic equations pertaining to modelinging systems involved in physical and industrial processes, especially those involving fluid dynamics, coupled fluid-structure interactions and  heat transfer.
 
 * EMPLOYMENT HISTORY
 
-** [[http://www.halliburton.com][Halliburton Engineering Services, Inc.]]
+** [[http://www.halliburton.com][Halliburton Energy Services, Inc
 
-| *Technical Advisor*                | Production Enhancement | 2012-2015 |
-| *Principal Technical Professional* | Production Enhancement | 2010-2012 |
+]]| Title                              | Organization                        |    Period |
+|------------------------------------+-------------------------------------+-----------|
+| *Technical Advisor*                | Advanced Computational Science      |      2015 |
+| *Technical Advisor*                | Software Architecture & Design Team | 2012-2014 |
+| *Principal Technical Professional* | Engineering Modeling and Simulation | 2010-2012 |
+
+- Development of physical models for the numerical simulation of complex physical systems related to hydraulic fracturing and other production enhancement processes.
+
+- Development and implementation of a high-performance computing framework for the simulation of disparate but tightly coupled physical models using non-causal or semi-causal, canonical (residual based) model formulations that allows the complete decoupling of the specification and development of individual physical model components as well as the complete decoupling of the solver from the model resulting in a dramatic reduction in the development time and cost of simulation tools.
 
 - Development and implementation of algorithms for the automatic classification and index reduction of systems of differential-algebraic equations based on a graph-theoretic analysis of the system's structure via a modification of Pantelides' algorithm.
 
 - Development of a template library for automatic differentiation of physical models using dual arithmetic.
 
-- Development and implementation of a high-performance computing framework for the simulation of disparate but tightly coupled physical models using non-causal or semi-causal, canonical (residual based) model formulations that allows the complete decoupling of the specification and development of individual physical model components as well as the complete decoupling of the solver from the model resulting in a dramatic reduction in the development time and cost of simulation tools.
-
-- Development of physical models for the numerical simulation of complex physical systems related to hydraulic fracturing and other production enhancement processes.
+- Algorithmic and programming optimization of existing models and solvers resulting and multiple orders of magnitude reduction in computational time and memory requirements.
 
 - Generation of best practices recommendations for the development of scientific computing and computer aid engineering software, and participated in the organization and execution of third-party reviews to improve the integrity of the organizations scientific computing software.
 
 - Generation of process recommendations for improving the programming skills and quality of inexperienced computational scientists and engineers in an environment with insufficient experienced professionals for effective mentoring.
 
-- Algorithmic and programming optimization of existing models and solvers resulting and multiple orders of magnitude reduction in computational time and memory requirements.
+- Text mining and natural language processing in support of data analytics for well stimulation effectiveness analysis.
+
+- Waterfall and Agile software development.
 
 ** [[http://www.cd-adapco.com/][Analysis and Design Applications Company (CD-adapco)]]
 | *Lead Engineer*   | Engineering Services | 2007-2010 |
@@ -70,6 +79,7 @@ A computational scientist and engineering developer primarily focused on algorit
 - Creation of analytical and numerical models in support of the development of a spray based strip casting process in partnership with the University of California, Irvine and the Idaho National Laboratory, including two and three-dimensional interfacial flow solvers with heat transfer and phase change (solidification), an analytical model for oblique droplet impact, a Lagrangian spray model, and molecular dynamics simulation for the investigation of contact line dynamics.
 
 * Computing Experience
+
 ** Programming Languages
 
 - *Native Languages* - C++, Fortran (77 and modern standards), C
