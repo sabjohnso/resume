@@ -13,13 +13,33 @@
 
 * SUMMARY
 
-A computational scientist and engineering developer primarily focused on algorithm and software development for the numerical solution of differential-algebraic equations, ordinary differential equations, partial differential equations, and linear and nonlinear algebraic equations pertaining to modelinging systems involved in physical and industrial processes, especially those involving fluid dynamics, coupled fluid-structure interactions and  heat transfer.
+A computational scientist and engineering developer primarily focused
+on algorithm and software development for the numerical solution of
+differential-algebraic equations, ordinary differential equations,
+partial differential equations, and linear and nonlinear algebraic
+equations pertaining to modeling systems involved in physical and
+industrial processes, especially those involving wave propagation,
+fluid dynamics, coupled fluid-structure interactions and heat
+transfer.
+
 
 * EMPLOYMENT HISTORY
+** [[https://www.exxonmobil.com][ExxonMobil]]
+| Title                     | Organization               | Period       |
+|---------------------------+----------------------------+--------------|
+| *Andvanced HPC Developer* | High Performance Computing | 2016-present |
 
-** [[http://www.halliburton.com][Halliburton Energy Services, Inc
+- Analysis and optimization of in-house seismic imaging and inversion
+  software
 
-]]| Title                              | Organization                        |    Period |
+- Development of a modeling and simulation abstraction system
+  including a declarative DSL based on a comonad notation for the
+  description of PDEs or stencil calculations to facilitate automated
+  application of optimizations over a large variety of wave
+  propagation kernels and hardware architectures.
+
+** [[http://www.halliburton.com][Halliburton Energy Services, Inc]]
+| Title                              | Organization                        |    Period |
 |------------------------------------+-------------------------------------+-----------|
 | *Technical Advisor*                | Advanced Computational Science      |      2015 |
 | *Technical Advisor*                | Software Architecture & Design Team | 2012-2014 |
@@ -44,6 +64,8 @@ A computational scientist and engineering developer primarily focused on algorit
 - Waterfall and Agile software development.
 
 ** [[http://www.cd-adapco.com/][Analysis and Design Applications Company (CD-adapco)]]
+| Title             | Organization         |    Period |
+|-------------------+----------------------+-----------|
 | *Lead Engineer*   | Engineering Services | 2007-2010 |
 | *Senior Engineer* | Engineering Services | 2006-2007 |
 
@@ -54,6 +76,8 @@ A computational scientist and engineering developer primarily focused on algorit
 - Developed custom purpose-built numerical models.
 
 ** [[http://ucdavis.edu/][University of California, Davis]]
+| Title                     | Organization                                     |    Period |
+|---------------------------+--------------------------------------------------+-----------|
 | *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
 | *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
 
@@ -64,8 +88,10 @@ A computational scientist and engineering developer primarily focused on algorit
 - Taught introductory courses in thermodynamics and fluid dynamics.
 
 ** [[http://www.lanl.gov][Los Alamos National Laboratory]]
+| Title                         | Organization                                |    Period |
+|-------------------------------+---------------------------------------------+-----------|
+| *Graduate Research Assistant* | Computational and Computer Science Division | 2000-2001 |
 
-| *Graduate Research Assistant* | Computational and Computer Science Division  2000-2001 |
 
 - Worked with a team on the development of a large-scale multi-physics solver for the numerical simulation of casting process.
 
