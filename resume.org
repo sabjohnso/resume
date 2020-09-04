@@ -17,26 +17,31 @@ A computational scientist and engineering developer primarily focused
 on algorithm and software development for the numerical solution of
 differential-algebraic equations, ordinary differential equations,
 partial differential equations, and linear and nonlinear algebraic
-equations pertaining to modeling systems involved in physical and
-industrial processes, especially those involving wave propagation,
-fluid dynamics, coupled fluid-structure interactions and heat
-transfer.
-
+equations pertaining to models of systems involved in physical and
+industrial processes, especially those related fluid dynamics, wave
+propagation, coupled fluid-structure interactions and heat transfer.
 
 * EMPLOYMENT HISTORY
 ** [[https://www.exxonmobil.com][ExxonMobil]]
-| Title                     | Organization               | Period       |
-|---------------------------+----------------------------+--------------|
-| *Andvanced HPC Developer* | High Performance Computing | 2016-present |
+| Title                            | Organization                  | Period       |
+|----------------------------------+-------------------------------+--------------|
+| *Computational Fluids Scientist* | Upstream Integrated Solutions | 2020-present |
+| *Andvanced HPC Developer*        | High Performance Computing    | 2016-2019    |
+
+- Modelling and simulation of turbidity currents for process
+  stratigraphy.
+  
+- Development of a vectorization strategy that eliminates the
+  contention between vectorization and data locality.
+
+- Development of a modeling and simulation abstraction system using
+  [[https://clang.llvm.org/][Clang/LLVM]] and [[https://racket-lang.org/][Racket]] that includes a declarative DSL based on a
+  comonad notation for the description of PDEs or stencil calculations
+  to facilitate automated application of optimizations over a large
+  variety of wave propagation kernels and hardware architectures.
 
 - Analysis and optimization of in-house seismic imaging and inversion
-  software
-
-- Development of a modeling and simulation abstraction system
-  including a declarative DSL based on a comonad notation for the
-  description of PDEs or stencil calculations to facilitate automated
-  application of optimizations over a large variety of wave
-  propagation kernels and hardware architectures.
+  software.
 
 ** [[http://www.halliburton.com][Halliburton Energy Services, Inc]]
 | Title                              | Organization                        |    Period |
@@ -45,21 +50,45 @@ transfer.
 | *Technical Advisor*                | Software Architecture & Design Team | 2012-2014 |
 | *Principal Technical Professional* | Engineering Modeling and Simulation | 2010-2012 |
 
-- Development of physical models for the numerical simulation of complex physical systems related to hydraulic fracturing and other production enhancement processes.
+- Development of physical models for the numerical simulation of
+  complex physical systems related to hydraulic fracturing and other
+  production enhancement processes.
 
-- Development and implementation of a high-performance computing framework for the simulation of disparate but tightly coupled physical models using non-causal or semi-causal, canonical (residual based) model formulations that allows the complete decoupling of the specification and development of individual physical model components as well as the complete decoupling of the solver from the model resulting in a dramatic reduction in the development time and cost of simulation tools.
+- Development and implementation of a high-performance computing
+  framework for the simulation of disparate but tightly coupled
+  physical models using non-causal or semi-causal, canonical (residual
+  based) model formulations that allows the complete decoupling of the
+  specification and development of individual physical model
+  components as well as the complete decoupling of the solver from the
+  model resulting in a dramatic reduction in the development time and
+  cost of simulation tools.
 
-- Development and implementation of algorithms for the automatic classification and index reduction of systems of differential-algebraic equations based on a graph-theoretic analysis of the system's structure via a modification of Pantelides' algorithm.
+- Development and implementation of algorithms for the automatic
+  classification and index reduction of systems of
+  differential-algebraic equations based on a graph-theoretic analysis
+  of the system's structure via a modification of Pantelides'
+  algorithm.
 
-- Development of a template library for automatic differentiation of physical models using dual arithmetic.
+- Development of a template library for automatic differentiation of
+  physical models using dual arithmetic.
 
-- Algorithmic and programming optimization of existing models and solvers resulting and multiple orders of magnitude reduction in computational time and memory requirements.
+- Algorithmic and programming optimization of existing models and
+  solvers resulting and multiple orders of magnitude reduction in
+  computational time and memory requirements.
 
-- Generation of best practices recommendations for the development of scientific computing and computer aid engineering software, and participated in the organization and execution of third-party reviews to improve the integrity of the organizations scientific computing software.
+- Generation of best practices recommendations for the development of
+  scientific computing and computer aid engineering software, and
+  participated in the organization and execution of third-party
+  reviews to improve the integrity of the organizations scientific
+  computing software.
 
-- Generation of process recommendations for improving the programming skills and quality of inexperienced computational scientists and engineers in an environment with insufficient experienced professionals for effective mentoring.
+- Generation of process recommendations for improving the programming
+  skills and quality of inexperienced computational scientists and
+  engineers in an environment with insufficient experienced
+  professionals for effective mentoring.
 
-- Text mining and natural language processing in support of data analytics for well stimulation effectiveness analysis.
+- Text mining and natural language processing in support of data
+  analytics for well stimulation effectiveness analysis.
 
 - Waterfall and Agile software development.
 
@@ -69,9 +98,13 @@ transfer.
 | *Lead Engineer*   | Engineering Services | 2007-2010 |
 | *Senior Engineer* | Engineering Services | 2006-2007 |
 
-- Consulting services in the area of thermal and fluid analysis of engineering systems for the automotive, marine, nuclear, and oil & gas industries using CD-adapco's state-of-the-art software, and high performance compute clusters.
+- Consulting services in the area of thermal and fluid analysis of
+  engineering systems for the automotive, marine, nuclear, and oil &
+  gas industries using CD-adapco's state-of-the-art software, and high
+  performance compute clusters.
 
-- Integrated customer's in-house software and third party software with CD-adapco's state of the art solvers.
+- Integrated customer's in-house software and third party software
+  with CD-adapco's state of the art solvers.
 
 - Developed custom purpose-built numerical models.
 
@@ -81,7 +114,9 @@ transfer.
 | *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
 | *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
 
-- Conducted research regarding the numerical simulation of multiphase fluid flow with applications in materials processing, fire suppression and contagion spreading.
+- Conducted research regarding the numerical simulation of multiphase
+  fluid flow with applications in materials processing, fire
+  suppression and contagion spreading.
 
 - Supervised graduate and undergraduate research.
 
@@ -93,31 +128,40 @@ transfer.
 | *Graduate Research Assistant* | Computational and Computer Science Division | 2000-2001 |
 
 
-- Worked with a team on the development of a large-scale multi-physics solver for the numerical simulation of casting process.
+- Worked with a team on the development of a large-scale multi-physics
+  solver for the numerical simulation of casting process.
 
 - Conducted research targeting the elimination of grid induced anisotropy.
 
-- Conducted research targeting the reduction of numerically induced spurious currents related to the numerical treatment of fluid interfaces.
+- Conducted research targeting the reduction of numerically induced
+  spurious currents related to the numerical treatment of fluid
+  interfaces.
 
 ** [[https://www.mines.edu][Colorado School of Mines]]
 | *Graduate Research Fellow* | Center for Combustion and Environmental Research | 1999-2005 |
 
-- Creation of analytical and numerical models in support of the development of a spray based strip casting process in partnership with the University of California, Irvine and the Idaho National Laboratory, including two and three-dimensional interfacial flow solvers with heat transfer and phase change (solidification), an analytical model for oblique droplet impact, a Lagrangian spray model, and molecular dynamics simulation for the investigation of contact line dynamics.
+- Creation of analytical and numerical models in support of the
+  development of a spray based strip casting process in partnership
+  with the University of California, Irvine and the Idaho National
+  Laboratory, including two and three-dimensional interfacial flow
+  solvers with heat transfer and phase change (solidification), an
+  analytical model for oblique droplet impact, a Lagrangian spray
+  model, and molecular dynamics simulation for the investigation of
+  contact line dynamics.
+
 
 * Computing Experience
 
 ** Programming Languages
 
-- *Native Languages* - C++, Fortran (77 and modern standards), C
+- *Native Languages* - C++, C, Fortran (77 and modern standards)
 
-- *Functional Languages* - Scheme (R5RS, R6RS), Common Lisp, Clojure, Haskell (basic working knowledge only)
-
-- *Object Oriented Languages* - Java (basic working knowledge only), C# (basic working knowledge only)
+- *Functional Languages* - Racket, Scheme (R5RS, R6RS), Common Lisp,
+  Clojure,  Haskell (basic working knowledge only), OCaml
 
 - *Prototyping Languages* - Julia, Python, MatLab/Octave, Mathematica
 
 ** HPC Frameworks/Libraries
-
 - OpenCl
 - MPI
 - OpenMP
@@ -125,19 +169,25 @@ transfer.
 
 ** Operating Systems
 
-- Windows 2000, Windows 7, Windows 8
 - Linux (many distributions)
-- Irix
-- BSD (limited experience)
 - OSX
+- Windows 2000, Windows 7, Windows 10
 
 * EDUCATION
 
-  *Relevant course work* - Numerical Methods, Numerical Solution of PDEs, Computational Linear Algebra, Finite Element Methods, Computational Fluid Dynamics, Finite Element Methods, Parallel Computing, Discrete Element Methods, Atomistic Simulation, Advanced Modeling and Simulation, Statistical Methods, Multiphase Flows, Combustion, Surface Chemistry, Physical Gas Dynamics, Fluid Mechanics (Introductory, Intermediate and Advanced), Heat Transfer, Thermodynamics (Introductory and Advanced), Solidification
+  *Relevant course work* - Numerical Methods, Numerical Solution of
+  PDEs, Computational Linear Algebra, Finite Element Methods,
+  Computational Fluid Dynamics, Finite Element Methods, Parallel
+  Computing, Discrete Element Methods, Atomistic Simulateion, Advanced
+  Modeling and Simulation, Statistical Methods, Multiphase Flows,
+  Combustion, Surface Chemistry, Physical Gas Dynamics, Fluid
+  Mechanics (Introductory, Intermediate and Advanced), Heat Transfer,
+  Thermodynamics (Introductory and Advanced), Solidification
+
 
 ** Colorado School of Mines, Golden, CO
 
-- Degree -  *Ph.D.* in Engineering System
+- Degree -  *Ph.D.* in Engineering Systems
 - Specialty - Thermo-fluid systems
 - Minor - Computer Science and Applied Mathematics 
 - Year - 2005
@@ -208,7 +258,7 @@ transfer.
 
 5. S. B. Johnson and J.-P. Delplanque, /Simulation Needs in the Modeling of Droplet-Based Processes: The case of spray-rolling/, Presented at the Los Alamos National Laboratory Telluride Workshop, Santa Fe, NM, January 21-23, 2003. 
 
-4. J.-P. Delplanque and S. B. Johnson, Y. Lin, Y. Zhou, N. Yang, K. M. McHugh and E. J. Lavernia, /Using CFD Simulations to Improve Spray-Based Materials Processes/, 2002 International Conference on Process Modeling in Powder Metallurgy & Particulate Materials, October 28-29, 2002, Newport Beach, California .
+ 4. J.-P. Delplanque and S. B. Johnson, Y. Lin, Y. Zhou, N. Yang, K. M. McHugh and E. J. Lavernia, /Using CFD Simulations to Improve Spray-Based Materials Processes/, 2002 International Conference on Process Modeling in Powder Metallurgy & Particulate Materials, October 28-29, 2002, Newport Beach, California .
 
 3. S. B. Johnson, Y. Lin, Y. Zhou, J.-P. Delplanque, K. M. McHugh, and E. J. Lavernia, /Modeling and Simulation of the Spray Rolling Process/, 2002 International Conference on Process Modeling in Powder Metallurgy & Particulate Materials, October 28-29, 2002, Newport Beach, California. 
 
