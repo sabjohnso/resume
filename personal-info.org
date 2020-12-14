@@ -1,5 +1,5 @@
 #+MACRO: FULL Samuel B. Johnson, Ph.D.
-#+MACRO: EMAIL [[mailto:samuel.johnson.jobs@gmail.com][sabjohnso@yahoo.com]]
+#+MACRO: EMAIL [[mailto:samuel.johnson.jobs@gmail.com][samuel.johnson.jobs@gmail.com]]
 #+MACRO: PHONE 631.944.2665
 #+MACRO: ADDRESS Houston, TX
 #+MACRO: HEADER | {{{ADDRESS}}} | {{{PHONE}}} | {{{EMAIL}}} |

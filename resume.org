@@ -14,7 +14,7 @@
 * SUMMARY
 
 A computational scientist and engineering developer primarily focused
-on algorithm and software development for the numerical solution of
+on HPC algorithm and software development for the numerical solution of
 differential-algebraic equations, ordinary differential equations,
 partial differential equations, and linear and nonlinear algebraic
 equations pertaining to models of systems involved in physical and
@@ -28,17 +28,17 @@ propagation, coupled fluid-structure interactions and heat transfer.
 | *Computational Fluids Scientist* | Upstream Integrated Solutions | 2020-present |
 | *Andvanced HPC Developer*        | High Performance Computing    | 2016-2019    |
 
-- Modelling and simulation of turbidity currents for process
-  stratigraphy.
-  
-- Development of a vectorization strategy that eliminates the
-  contention between vectorization and data locality.
-
 - Development of a modeling and simulation abstraction system using
   [[https://clang.llvm.org/][Clang/LLVM]] and [[https://racket-lang.org/][Racket]] that includes a declarative DSL based on a
   comonad notation for the description of PDEs or stencil calculations
   to facilitate automated application of optimizations over a large
   variety of wave propagation kernels and hardware architectures.
+
+- Modeling and simulation of turbidity currents for process
+  stratigraphy.
+  
+- Development of a vectorization strategy that eliminates the
+  contention between vectorization and data locality.
 
 - Analysis and optimization of in-house seismic imaging and inversion
   software.
@@ -156,14 +156,16 @@ propagation, coupled fluid-structure interactions and heat transfer.
 
 - *Native Languages* - C++, C, Fortran (77 and modern standards)
 
-- *Functional Languages* - Racket, Scheme (R5RS, R6RS), Common Lisp,
-  Clojure,  Haskell (basic working knowledge only), OCaml
+- *Functional Languages* - Racket, Scheme (R5RS, R6RS, R7RS), Common Lisp,
+  Clojure,  Haskell (basic working knowledge only), OCaml, Scala (basic working knowledge only)
 
 - *Prototyping Languages* - Julia, Python, MatLab/Octave, Mathematica
 
 ** HPC Frameworks/Libraries
-- OpenCl
+
 - MPI
+- OpenCl
+- Cuda
 - OpenMP
 - POSIX Threads
 
@@ -200,7 +202,7 @@ propagation, coupled fluid-structure interactions and heat transfer.
 - Specialty - Thermo-fluid systems
 - Thesis - Modeling and Numerical Simulation of Droplet Spreading and Solidification after  Impingement on a Cold Substrate
 - GPA - 4.0
-
+  
 ** Colorado School of Mines, Golden, Co
 
 - Degree - *B.Sc.*  Engineering
