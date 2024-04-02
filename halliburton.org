@@ -1,0 +1,45 @@
+** [[http://www.halliburton.com][Halliburton Energy Services, Inc]]
+| Title                              | Organization                        |    Period |
+|------------------------------------+-------------------------------------+-----------|
+| *Technical Advisor*                | Advanced Computational Science      |      2015 |
+| *Technical Advisor*                | Software Architecture & Design Team | 2012-2014 |
+| *Principal Technical Professional* | Engineering Modeling and Simulation | 2010-2012 |
+
+- Design and implementation of a high-performance computing framework
+  for the simulation of disparate but tightly coupled physics that
+  decouples individual model components from each other and the system
+  solver to reduce development costs and improve the maintainability
+  of the software.
+
+- Development of mathematical models for the numerical simulation of
+  complex physical systems related to hydraulic fracturing and other
+  production enhancement processes.
+
+- Development and implementation of algorithms for the automatic
+  classification and index reduction of systems of
+  differential-algebraic equations based on a graph-theoretic analysis
+  of the system's structure via a modification of Pantelides'
+  algorithm.
+
+- Development of a template library for automatic differentiation of
+  physical models using dual arithmetic.
+
+- Algorithmic and programming optimization of existing models and
+  solvers resulting and multiple orders of magnitude reduction in
+  computational time and memory requirements.
+
+- Generation of best practices recommendations for the development of
+  scientific computing and computer aid engineering software, and
+  participated in the organization and execution of third-party
+  reviews to improve the integrity of the organizations scientific
+  computing software.
+
+- Generation of process recommendations for improving the programming
+  skills and quality of inexperienced computational scientists and
+  engineers in an environment with insufficient experienced
+  professionals for effective mentoring.
+
+- Text mining and natural language processing in support of data
+  analytics for well stimulation effectiveness analysis.
+
+- Waterfall and Agile software development.

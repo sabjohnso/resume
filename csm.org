@@ -1,0 +1,15 @@
+** Colorado School of Mines
+| Title                     | Organization                                     |    Period |
+|---------------------------+--------------------------------------------------+-----------|
+| *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
+| *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
+
+Creation of analytical and numerical models in support of the
+development of a spray based strip casting process in partnership with
+the University of California, Irvine and the Idaho National
+Laboratory, including two and three-dimensional interfacial flow
+solvers with heat transfer and phase change (solidification), an
+analytical model for oblique droplet impact, a Lagrangian spray model,
+and molecular dynamics simulation for the investigation of contact
+line dynamics.
+

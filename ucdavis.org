@@ -1,0 +1,13 @@
+** [[http://ucdavis.edu/][University of California, Davis]]
+| Title                     | Organization                                     |    Period |
+|---------------------------+--------------------------------------------------+-----------|
+| *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
+| *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
+
+- Conducted research regarding the numerical simulation of multiphase
+  fluid flow with applications in materials processing, fire
+  suppression and contagion spreading.
+
+- Supervised graduate and undergraduate research.
+
+- Taught introductory courses in thermodynamics and fluid dynamics.

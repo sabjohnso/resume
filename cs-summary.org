@@ -1,0 +1,8 @@
+* Professional Summary
+
+A software developer/computational scientist with extensive experience
+developing low latency, high performance and high throughput software
+systems, using modern C++ and other programming languages, with a
+proven track record of designing, implementing and delivering
+maintainable, performance critical software for distributed systems.
+

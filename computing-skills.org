@@ -1,0 +1,31 @@
+* Computing Skills
+
+** Programming Languages
+
+- *Native Languages* - C++ (modern), C, Fortran (77 and recent standards)
+
+- *Functional Languages* - Racket, Scheme (R5RS, R6RS, R7RS), Common Lisp,
+  Clojure,  Haskell (basic working knowledge only), OCaml, Scala (basic working knowledge only)
+
+- *Prototyping Languages* -  Mathematica, Julia, Python, MatLab / Octave
+  
+** Parallel Computing Frameworks/Libraries
+
+- MPI
+- OpenMP
+- C++ thread support library
+- POSIX Threads
+- Cuda
+- OpenCL
+
+** Parallel File Systems
+
+- Lustre
+- GPFS
+- Vast
+
+** Operating Systems
+
+- Linux (many distributions)
+- OSX
+- Windows 10

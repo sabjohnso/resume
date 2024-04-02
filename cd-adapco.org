@@ -1,0 +1,15 @@
+** [[http://www.cd-adapco.com/][Analysis and Design Applications Company (CD-adapco)]]
+| Title             | Organization         |    Period |
+|-------------------+----------------------+-----------|
+| *Lead Engineer*   | Engineering Services | 2007-2010 |
+| *Senior Engineer* | Engineering Services | 2006-2007 |
+
+- Consulting services in the area of thermal and fluid analysis of
+  engineering systems for the automotive, marine, nuclear, and oil &
+  gas industries using CD-adapco's state-of-the-art software, and high
+  performance compute clusters.
+
+- Integrated customer's in-house software and third party software
+  with CD-adapco's state of the art solvers.
+
+- Developed custom purpose-built numerical models.
