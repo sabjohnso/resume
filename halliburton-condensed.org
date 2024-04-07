@@ -1,0 +1,26 @@
+** [[http://www.halliburton.com][Halliburton Energy Services, Inc]]
+| Title                              | Organization                        |    Period |
+|------------------------------------+-------------------------------------+-----------|
+| *Technical Advisor*                | Advanced Computational Sciences     |      2015 |
+| *Technical Advisor*                | Software Architecture & Design Team | 2012-2014 |
+| *Principal Technical Professional* | Engineering Modeling and Simulation | 2010-2012 |
+
+ - Led the design of a modular simulation system for complex physics,
+   enabling scalable development and significantly enhancing system
+   maintainability and evolability
+
+ - Developed and optimized mathematical models for simulating advanced
+   physical processes, including hydraulic fracturing, and created
+   tools for algorithmic improvements and automatic differentiation.
+
+ - Achieved groundbreaking reductions in processing times and memory
+   usage through algorithm optimization, parallelization, and system
+   tuning on pre-existing software.
+
+ - Formulated best practices for scientific software development,
+   promoting rigorous review processes and enhancing organizational
+   standards in computational science.
+
+ - Applied text mining and NLP techniques to bolster data analytics
+   for well stimulation effectiveness, driving insights from
+   unstructured data.
