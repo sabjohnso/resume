@@ -1,8 +1,8 @@
-** Colorado School of Mines
-| Title                     | Organization                                     |    Period |
-|---------------------------+--------------------------------------------------+-----------|
-| *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
-| *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
+** [[https://www.mines.edu/][Colorado School of Mines]]
+| Title                | Organization                                    |    Period |
+|----------------------+-------------------------------------------------+-----------|
+| *Doctoral Fellow*    | Center for Combustion and Environmental Science | 2001-2005 |
+| *Research Assistant* | Center for Combustion and Environmental Science | 1999-2001 |
 
 In collaboration with the University of California, Irvine, and Idaho
 National Laboratory, developed advanced analytical and numerical
