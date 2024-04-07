@@ -1,0 +1,20 @@
+#+OPTIONS: toc:nil H:10 tex:t num:nil author:nil date:nil
+#+STARTUP: hidestars indent
+#+INCLUDE: personal-info.org
+#+LateX_HEADER: \usepackage{resume}
+#+LateX_HEADER: \hypersetup{hidelinks}
+#+LateX_CLASS_OPTIONS: [letterpaper]
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="resume.css" />
+
+
+#+TITLE:{{{FULL}}}
+
+| {{{ADDRESS}}} | {{{PHONE}}} | {{{EMAIL}}}     |
+
+#+INCLUDE: cs-summary.org
+
+#+INCLUDE: employment-history-condensed.org
+
+#+INCLUDE: computing-skills.org
+
+#+INCLUDE: education.org

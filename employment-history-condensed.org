@@ -1,0 +1,15 @@
+* Work History
+
+#+INCLUDE: quantlab-condensed.org
+
+#+INCLUDE: exxonmobil-condensed.org
+
+#+INCLUDE: halliburton-condensed.org
+
+#+INCLUDE: cd-adapco-condensed.org
+
+#+INCLUDE: ucdavis-condensed.org
+
+#+INCLUDE: los-alamos-condensed.org
+
+#+INCLUDE: csm-condensed.org
