@@ -1,33 +1,37 @@
 ** [[https://www.quantlab.com][Quantlab]]
+| Title                | Organization                        | Period         |
+|----------------------+-------------------------------------+----------------|
+| *Software Developer* | Core Research                       | 2024 - Present |
+| *Software Developer* | Futures Engineering/Alpha-Recon     | 2023 - 2024    |
+| *Software Developer* | Engineering Modeling and Simulation | 2022 - 2023    |
+| *Software Developer* | HPC/Edge-Dev                        | 2021 - 2022    |
 
-During my employment at Quantlab, I have have been a part of several
-teams.  Most recently, as part of the Core Research team I integrated
-multiple machine learning frameworks and libraries into Quantlab's
-next generation trading/research platform and demonstrated the direct
-research-to-production capabilities of the platform with several deep
-learning models for limit order books.
+ - Played a pivotal role in integrating various machine learning
+   frameworks into Quantlab's cutting-edge trading/research platform,
+   enhancing its research-to-production functionality. Demonstrated the
+   platform's capabilities by developing agnostic deep learning models for
+   pricemovement prediction through limit order books.
 
-As part of the Futures Engineering/Alpha Recon team, I reworked
-the model engine of Quantlab's next generation trading and research
-platform to improve correctness and consistency of the calculations
-and to improve the visibility of the calculations for performance
-optimization and for research verifiability of the calculations.
+ - Overhauled the model engine of Quantlab's newest trading and
+   research platform, focusing on improving calculation accuracy,
+   consistency, and performance visibility. This enabled more
+   effective performance optimization and ensured the verifiability of
+   research calculations.
 
-I also implemented a library supporting the ~Executor~ protocol from
-Python's  ~concurrent.futures~ library to offload data sampling,
-fitting and simulation work, where more than hundreds of thousands of
-simulation are often submitted as a single ~map~ call by the executor,
-and I optimized data loading for the model fitting processes, reducing
-the overall time for model fitting to a third of its original time
-with peak read rates of over 600 GB/s.
+ - Authored a Python library compatible with the ~Executor~ protocol
+   from the ~concurrent.futures~ module, facilitating efficient data
+   sampling, fitting, and simulation workflows, sometimes composed of
+   nearly a million tasks. Optimized the model fitting process,
+   cutting down time to one-third of the original and achieving peak
+   data read rates over 600 GB/s.
 
-As part of the Flex-Dev team I implemented low-latency C++ feed handlers
-including feed handlers for multiple US equity exchanges and
-adapters to retrofit modern feed handlers to the legacy model engine
-and feed to alpha transducers.
+ - Developed low-latency C++ feed handlers for multiple US equity
+   exchanges and designed adapters to integrate modern feed handlers
+   with legacy systems, significantly improving data processing speed
+   and reliability.
 
-As part of the HPC/Edge-Dev team, I implementation of data
-aggregation and processing pipelines with Python and C++. Design and
-implementation of an application for the isomorphic transformation
-of binary protocol specifications in two in-house DSLs and an
-equivalent representation in JSON (implemented with [[https://racket-lang.org/][Racket]]).
+ - Implemented data aggregation and processing pipelines using Python
+   and C++. Designed and developed a unique application for the
+   isomorphic transformation of binary protocol specifications across
+   multiple proprietary DSLs and JSON, employing Racket for the
+   implementation.

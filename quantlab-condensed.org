@@ -1,0 +1,24 @@
+** [[https://www.quantlab.com][Quantlab]]
+| Title                | Organization                        | Period         |
+|----------------------+-------------------------------------+----------------|
+| *Software Developer* | Core Research                       | 2024 - Present |
+| *Software Developer* | Futures Engineering/Alpha-Recon     | 2023 - 2024    |
+| *Software Developer* | Engineering Modeling and Simulation | 2022 - 2023    |
+| *Software Developer* | HPC/Edge-Dev                        | 2021 - 2022    |
+
+ - Integrated ML frameworks into the trading platform, showcasing deep
+   learning models for limit order book analysis with the Core
+   Research team.
+
+ - Refined the trading platform's model engine for enhanced accuracy
+   and optimization visibility with the Futures Engineering/Alpha
+   Recon team.
+
+ - Implemented low-latency feed handlers and adapters for multiple
+   financial exchanges.
+
+ - Developed data processing pipelines and a unique transformation
+   application using Python, C++, and Racket.
+
+ - Authored a Python library for efficient data operations, tripling
+   model fitting efficiency and achieving 600 GB/s peak read rates.
