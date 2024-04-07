@@ -1,0 +1,13 @@
+** [[http://ucdavis.edu/][University of California, Davis]]
+| Title                     | Organization                                     |    Period |
+|---------------------------+--------------------------------------------------+-----------|
+| *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
+| *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
+
+ - As a postdoctoral researcher, spearheaded multiphase fluid flow
+   simulations for various applications and mentored undergraduates in
+   related research.
+
+ - As a lecturer, effectively taught thermodynamics and fluid
+   dynamics, employing innovative teaching strategies to facilitate
+   student learning.

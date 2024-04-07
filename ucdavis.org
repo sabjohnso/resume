@@ -4,10 +4,18 @@
 | *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
 | *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
 
-- Conducted research regarding the numerical simulation of multiphase
-  fluid flow with applications in materials processing, fire
-  suppression and contagion spreading.
+ - Led cutting-edge research on the numerical simulation of multiphase
+   fluid flows, focusing on diverse applications such as materials
+   processing, fire suppression, and contagion spreading. This work
+   pushed the boundaries of current understanding and contributed to
+   advancements in each application area.
 
-- Supervised graduate and undergraduate research.
+ - Supervised and mentored undergraduate students in research projects
+   related to multiphase fluid flow simulations. Guided students
+   through project planning, execution, and analysis, fostering their
+   academic growth and research capabilities.
 
-- Taught introductory courses in thermodynamics and fluid dynamics.
+ - Taught introductory courses in thermodynamics and fluid dynamics,
+   delivering complex concepts in an accessible and engaging
+   manner. Developed and implemented innovative teaching methods to
+   enhance student understanding and interest in the subjects.
