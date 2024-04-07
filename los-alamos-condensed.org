@@ -1,0 +1,12 @@
+** [[http://www.lanl.gov][Los Alamos National Laboratory]]
+| Title                         | Organization                                |    Period |
+|-------------------------------+---------------------------------------------+-----------|
+| *Graduate Research Assistant* | Computational and Computer Science Division | 2000-2001 |
+
+ - Collaborated on developing a solver for casting process
+   simulations, integrating multi-physics models for enhanced
+   accuracy.
+
+ - Led research to eliminate grid-induced anisotropy and reduce
+   spurious currents in fluid interface treatments, improving
+   simulation reliability.
