@@ -4,12 +4,30 @@
 | *Postdoctoral Researcher* | Center for Computational Science and Engineering | 2005-2006 |
 | *Lecturer*                | Mechanical and Aerospace Engineering Department  | 2005-2006 |
 
-Creation of analytical and numerical models in support of the
-development of a spray based strip casting process in partnership with
-the University of California, Irvine and the Idaho National
-Laboratory, including two and three-dimensional interfacial flow
-solvers with heat transfer and phase change (solidification), an
-analytical model for oblique droplet impact, a Lagrangian spray model,
-and molecular dynamics simulation for the investigation of contact
-line dynamics.
+In collaboration with the University of California, Irvine, and Idaho
+National Laboratory, developed advanced analytical and numerical
+models to innovate a spray-based strip casting process. This
+interdisciplinary project encompassed:
 
+ - Design and implementation of two and three-dimensional interfacial
+   flow solvers, incorporating complex phenomena such as heat transfer
+   and phase change (solidification), to accurately simulate the strip
+   casting process.
+
+ - Development of an analytical model for oblique droplet impact,
+   enhancing understanding of droplet behavior and interactions during
+   the spray process.
+
+ - Creation of a comprehensive Lagrangian spray model to predict and
+   analyze the distribution and behavior of spray droplets in the
+   strip casting environment.
+
+ - Conducting molecular dynamics simulations to explore contact line
+   dynamics, providing insights into molecular-level interactions and
+   effects on the casting process.
+
+This work contributed significantly to the field of materials
+engineering by advancing the capabilities for simulating and
+understanding the spray-based strip casting process, with potential
+implications for manufacturing efficiency and enhanced material
+properties.
