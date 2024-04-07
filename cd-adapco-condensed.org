@@ -12,7 +12,7 @@
 
  - Spearheaded the integration of client-specific and third-party
    software solutions with CD-adapco's advanced solvers, enhancing
-   tool interoperability and computational capabilities.
+   client's tool interoperability and computational capabilities.
 
  - Engineered bespoke numerical models tailored to specific project
    requirements using C++ and Fortran as dictated by client needs.
