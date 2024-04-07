@@ -1,8 +1,11 @@
 * Professional Summary
-
-A software developer/computational scientist with extensive experience
-developing low latency, high performance and high throughput software
-systems, using modern C++ and other programming languages, with a
-proven track record of designing, implementing and delivering
-maintainable, performance critical software for distributed systems.
-
+As a seasoned software developer and computational scientist, I
+specialize in developing performance-critical software for
+low-latency, high-performance, and high-throughput applications. With
+decades of experience working on both sides of the research and software
+development divide, I possess a distinctive capability to tackle complex
+challenges that traverse these domains. My expertise is particularly
+deep in numerical analysis, a fundamental component of such
+problems. This unique blend of skills enables me to effectively
+address issues on either side of the research-development spectrum,
+ensuring robust and innovative solutions.

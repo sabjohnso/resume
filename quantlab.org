@@ -1,44 +1,32 @@
 ** [[https://www.quantlab.com][Quantlab]]
 
-| TITLE                | Organization        | Period       |
-|----------------------+---------------------+--------------|
-| *Software Developer* | Core Research       | 2023-present |
-
-As part of the Core Research team I integrated multiple machine
-learning frameworks and libraries into Quantlab's next generation
-trading/research platform and demonstrated the direct
+During my employment at Quantlab, I have have been a part of several
+teams.  Most recently, as part of the Core Research team I integrated
+multiple machine learning frameworks and libraries into Quantlab's
+next generation trading/research platform and demonstrated the direct
 research-to-production capabilities of the platform with several deep
 learning models for limit order books.
 
-| TITLE                | Organization        | Period       |
-|----------------------+---------------------+--------------|
-| *Software Developer* | Futures Engineering | 2023-present |
-
-As part of the Futures Engineering/Alpha Recon team, I reworked most
-of the model engine of Quantlab's next generation trading and research
-platform to improve correctness and consistancy of the calculations
-and to improve the visiblility of the calculations for performance
+As part of the Futures Engineering/Alpha Recon team, I reworked
+the model engine of Quantlab's next generation trading and research
+platform to improve correctness and consistency of the calculations
+and to improve the visibility of the calculations for performance
 optimization and for research verifiability of the calculations.
 
-I implemented a library supporting the ~Executor~ protocol from
+I also implemented a library supporting the ~Executor~ protocol from
 Python's  ~concurrent.futures~ library to offload data sampling,
-fitting and simulation work, where more than 200k simulation are often
-submitted as a single ~map~ call by the executor.
-
-| TITLE                | Organization | Period |
-|----------------------+--------------+--------|
-| *Software Developer* | Flex-Dev     |   2021 |
+fitting and simulation work, where more than hundreds of thousands of
+simulation are often submitted as a single ~map~ call by the executor,
+and I optimized data loading for the model fitting processes, reducing
+the overall time for model fitting to a third of its original time
+with peak read rates of over 600 GB/s.
 
 As part of the Flex-Dev team I implemented low-latency C++ feed handlers
 including feed handlers for multiple US equity exchanges and
-adaptors to retrofit modern feed handlers to the legacy model engine
+adapters to retrofit modern feed handlers to the legacy model engine
 and feed to alpha transducers.
 
-| TITLE                | Organization | Period |
-|----------------------+--------------+--------|
-| *Software Developer* | HPC/Edge-Dev |   2021 |
-
-As part of the HPC/EdgeDev team, I implementation of data
+As part of the HPC/Edge-Dev team, I implementation of data
 aggregation and processing pipelines with Python and C++. Design and
 implementation of an application for the isomorphic transformation
 of binary protocol specifications in two in-house DSLs and an

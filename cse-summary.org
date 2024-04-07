@@ -1,11 +1,11 @@
 * Professional Summary
-
-I am a computational scientist and engineering software developer primarily
-focused on performance critical software across the low-latency,
-high-performance and high-throughput domains.  My decades of experience
-straddling the divide between research and software development
-provide me with a unique ability to takle problems that span that
-devide while still being able to effectively handle problems on either
-side, especially when combined with an in-depth knowledge and
-experience in numerical analysis, which is often at the core of those
-problems.
+As a seasoned software developer and computational scientist, I
+specialize in crafting performance-critical software for
+low-latency, high-performance, and high-throughput applications. With
+decades of experience working in research and software
+development, I possess a distinctive capability to tackle complex
+challenges that traverse these domains. My expertise is particularly
+deep in numerical analysis, a fundamental component of such
+problems. This unique blend of skills enables me to effectively
+address issues on either side of the research-development spectrum,
+ensuring robust and innovative solutions.
