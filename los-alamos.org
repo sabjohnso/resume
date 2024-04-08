@@ -3,20 +3,20 @@
 |-------------------------------+---------------------------------------------+-----------|
 | *Graduate Research Assistant* | Computational and Computer Science Division | 2000-2001 |
 
-Collaborated within a multidisciplinary team on the creation of a
-comprehensive multi-physics solver, designed to accurately simulate
-large-scale casting processes. This involved integrating various
-physical models to predict the complex interactions during casting,
-enhancing predictive capabilities and simulation fidelity.
+ - Collaborated within a multidisciplinary team on the creation of a
+   comprehensive multi-physics solver, designed to accurately simulate
+   large-scale casting processes. This involved integrating various
+   physical models to predict the complex interactions during casting,
+   enhancing predictive capabilities and simulation fidelity.
 
-Conducted innovative research aimed at eliminating grid-induced
-anisotropy, ensuring more accurate and reliable simulations. This work
-involved developing and testing novel algorithms to mitigate the
-effects of grid orientation on simulation outcomes.
+ - Conducted innovative research aimed at eliminating grid-induced
+   anisotropy, ensuring more accurate and reliable simulations. This
+   work involved developing and testing novel algorithms to mitigate
+   the effects of grid orientation on simulation outcomes.
 
-Cooperated in research efforts to significantly reduce numerically
-induced spurious currents, particularly those arising from the
-numerical treatment of fluid interfaces. This was achieved through the
-formulation and application of advanced numerical methods, enhancing
-the solver's ability to capture the dynamics of fluid interfaces with
-high fidelity.
+ - Cooperated in research efforts to significantly reduce numerically
+   induced spurious currents, particularly those arising from the
+   numerical treatment of fluid interfaces. This was achieved through
+   the formulation and application of advanced numerical methods,
+   enhancing the solver's ability to capture the dynamics of fluid
+   interfaces with high fidelity.
