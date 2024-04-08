@@ -2,20 +2,29 @@
 
 ** Programming Languages
 
-- *Native Languages* - C++ (modern), C, Fortran (77 and recent standards)
+- Native Languages :: - C++ (modern), C, Fortran (77 and recent standards)
 
-- *Functional Languages* - Racket, Scheme (R5RS, R6RS, R7RS), Common Lisp,
+- Functional Languages ::  Racket, Scheme (R5RS, R6RS, R7RS), Common Lisp,
   Clojure,  Haskell (basic working knowledge only), OCaml, Scala (basic working knowledge only)
 
-- *Prototyping Languages* -  Mathematica, Julia, Python, MatLab / Octave
-  
-** Parallel Computing Frameworks/Libraries
+- Prototyping Languages ::  Mathematica, Julia, Python, MatLab/Octave
 
+** Machine Learning Frameworks and Libraries
+- PyTorch
+- TensorFlow
+- LightGBM
+- Scikit-Learn
+
+** Containerization
+- Docker
+- Singularity (Apptainer)
+
+** Parallel Computing Frameworks and libraries
 - MPI
 - OpenMP
 - C++ thread support library
 - POSIX Threads
-- Cuda
+- CUDA
 - OpenCL
 
 ** Parallel File Systems
@@ -27,5 +36,3 @@
 ** Operating Systems
 
 - Linux (many distributions)
-- OSX
-- Windows 10

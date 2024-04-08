@@ -4,8 +4,8 @@ specialize in developing performance-critical software for
 low-latency, high-performance, and high-throughput applications. With
 decades of experience working on both sides of the research and software
 development divide, I possess a distinctive capability to tackle complex
-challenges that traverse these domains. My expertise is particularly
-deep in numerical analysis, a fundamental component of such
-problems. This unique blend of skills enables me to effectively
-address issues on either side of the research-development spectrum,
-ensuring robust and innovative solutions.
+challenges that span these domains. My expertise is particularly
+deep in numerical analysis, which is often a fundamental component
+in performance critical problems. My unique blend of experience and
+skills enables me to effectively address issues throughout the
+research-development spectrum, ensuring comprehensive solutions.

@@ -10,7 +10,7 @@
    frameworks into Quantlab's cutting-edge trading/research platform,
    enhancing its research-to-production functionality. Demonstrated the
    platform's capabilities by developing agnostic deep learning models for
-   pricemovement prediction through limit order books.
+   pricemovement prediction through limit order book data.
 
  - Overhauled the model engine of Quantlab's newest trading and
    research platform, focusing on improving calculation accuracy,

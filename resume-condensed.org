@@ -9,7 +9,7 @@
 
 #+TITLE:{{{FULL}}}
 
-| {{{ADDRESS}}} | {{{PHONE}}} | {{{EMAIL}}}     |
+{{{HEADER}}}
 
 #+INCLUDE: cs-summary.org
 
